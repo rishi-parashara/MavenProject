@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[RS............]]>
+    </line>
+    <line>
+      <![CDATA[http://www.google.com]]>
+    </line>
+    <line>
+      <![CDATA[Opened the browser. Entered URL as google.com]]>
+    </line>
+    <line>
+      <![CDATA[Closeed the browser. Bye...]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15261" started-at="2018-10-11T07:37:54Z" finished-at="2018-10-11T07:38:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15261" started-at="2018-10-11T07:37:54Z" finished-at="2018-10-11T07:38:10Z">
+      <class name="qsp.A">
+        <test-method status="PASS" signature="mavenExperiment()[pri:0, instance:qsp.A@46d56d67]" name="mavenExperiment" duration-ms="15207" started-at="2018-10-11T13:07:54Z" finished-at="2018-10-11T13:08:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[RS............]]>
+            </line>
+            <line>
+              <![CDATA[http://www.google.com]]>
+            </line>
+            <line>
+              <![CDATA[Opened the browser. Entered URL as google.com]]>
+            </line>
+            <line>
+              <![CDATA[Closeed the browser. Bye...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mavenExperiment -->
+      </class> <!-- qsp.A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
